@@ -1,3 +1,9 @@
+"""
+CASE: 6
+Kuleshov Roman - 70%
+Yudachev Nikita -30%
+"""
+
 import os
 
 
